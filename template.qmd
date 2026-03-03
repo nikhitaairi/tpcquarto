@@ -1,7 +1,7 @@
 ---
 title: "TAX POLICY CENTER TARIFF MODEL"
 subtitle: "Modeling tariff impacts at the state level and beyond (optional)"
-date: "Date here (optional)"
+date: "February 29, 2028"
 author:
   - name: "Author name here (optional)"
 format:
@@ -30,7 +30,9 @@ Optional sidebar content here — key facts, definitions, or callout information
 
 ::: {.main-content}
 
-The Tax Policy Center's tariff model is the most sophisticated model housed outside of a government agency. In addition to total tariff revenues, we estimate impacts on household incomes, businesses, and the broader economy.
+The Tax Policy Center's tariff model is the most sophisticated model housed outside of a government agency. In addition to total tariff revenues, we estimate impacts on household incomes, businesses, and the broader economy.[^1]
+
+[^1]: You can add a footnote this way.
 
 Our team is equipped to help state and local governments and stakeholders assess the impact of tariffs on their regional economies.
 
